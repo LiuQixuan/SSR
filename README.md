@@ -1,3 +1,12 @@
+---
+title: 免费 SSR 源共享
+date: 2019-03-29 07:23:56
+tags:
+    - shadowsocks
+    - VPN
+    - SSR
+toc: true
+---
 # 免费 SSR 源共享（这些资源来之不易，且用且珍惜）
 
 ## 项目说明
@@ -32,4 +41,4 @@
 禁止使用这些资源进行黑客攻击，BT下载，滥发垃圾邮件。一切法律问题由当事人承担。
 
 ## 鸣谢
-最后鸣谢 [ sadowsock开发小组](https://github.com/shadowsocks)，感谢他们为我们提供那么简单易用的科学上网工具
+最后鸣谢 [ shadowsocks开发小组](https://github.com/shadowsocks)，感谢他们为我们提供那么简单易用的科学上网工具
